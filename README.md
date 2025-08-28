@@ -474,15 +474,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TestContainers team** for testing utilities
 - **All contributors** who helped improve this project
 
-## 📞 Support
-
-If you need help or have questions:
-
-- 📧 **Email**: support@bookhub.com
-- 💬 **Discord**: [BookHub Community](https://discord.gg/bookhub)
-- 📖 **Documentation**: [API Docs](http://localhost:8088/swagger-ui/index.html)
-- 🐛 **Issues**: [GitHub Issues](../../issues)
-
 ---
 
 <div align="center">
